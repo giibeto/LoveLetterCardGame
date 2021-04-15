@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LoveLetterCardGame": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
